@@ -1,0 +1,12 @@
+body {
+    background-color: #f8f9fa;
+}
+.api-content {
+    min-height: 150px;
+    padding: 10px;
+    background-color: #ffffff;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+    margin-top: 10px;
+    text-align: center;
+}
